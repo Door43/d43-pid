@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pid:home|Door43 (pid)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pid|d43-pid repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pid/archive/master.zip|d43-pid.zip]]
+
+**Recent Changes**
+{{changes>ns = pid}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pid|Ethnologue data]]
+
